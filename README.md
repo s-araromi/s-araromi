@@ -20,9 +20,7 @@
   <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
 </a>
   
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Peace0095&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 ---
 
