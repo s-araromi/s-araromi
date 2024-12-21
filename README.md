@@ -29,7 +29,7 @@
 
 ### :man_scientist::man_technologist: About Me :
 
-I am a Data Analyst, Bioinformatician/Computational Biologist, software developer, and an ML/AI enthusiast, with a keen interest in leveraging data analytics and artificial intelligence for advancements in public health and healthcare.
+I am a Data Analyst, Bioinformatician/Computational Biologist, Front-end Web Developer, and an ML/AI enthusiast, with a keen interest in leveraging data analytics and artificial intelligence for advancements in public health and healthcare.
 
 * :chart_with_upwards_trend::bar_chart: I’m working in Data Analytics, where I uncover hidden patterns in data and translate them into actionable insights. I'm passionate about using data to tell compelling stories and drive informed decisions.
   
